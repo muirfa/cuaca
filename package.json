@@ -1,0 +1,17 @@
+{
+  "name": "tugasapi",
+  "version": "1.0.0",
+  "description": "tugas",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "irfan",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
